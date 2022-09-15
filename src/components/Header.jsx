@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react';
 import { Link } from 'react-router-dom';
 
 function Header() {
@@ -6,7 +6,7 @@ function Header() {
     <nav className="indigo accent-4">
       <div className="nav-wrapper">
         <Link to="/" className="brand-logo">
-          React Shop
+          React Food
         </Link>
         <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
