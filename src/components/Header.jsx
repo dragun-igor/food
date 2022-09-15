@@ -16,7 +16,7 @@ function Header() {
             <Link to="/contact">Contact</Link>
           </li>
           <li>
-            <a href="https://github.com/dragun-igor/shop">Repo</a>
+            <a href="https://github.com/dragun-igor/food">Repo</a>
           </li>
         </ul>
       </div>
